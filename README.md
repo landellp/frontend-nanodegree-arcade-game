@@ -45,4 +45,4 @@ Technologies Used:  HTML, CSS, JavaScript (Object-Oriented )
 
 ## Preview
 
-To preview the game, click [HERE](https://htmlpreview.github.io/?https://github.com/udacity/frontend-nanodegree-arcade-game)
+To preview the game, click [HERE](https://htmlpreview.github.io/?https://github.com/landellp/frontend-nanodegree-arcade-game/blob/master/index.html)
