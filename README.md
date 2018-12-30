@@ -2,20 +2,47 @@
 
 ## Table of Contents
 
-- [Instructions](#instructions)
-- [Contributing](#contributing)
+* [Instructions](#instructions)
+* [Contributing](#contributing)
+* [Resources](#resources)
+* [Preview](#preview)
 
 ## Instructions
 
-Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
+### Install
+* Select 'Clone or download' button from the GitHub repo
+* Download ZIP or clone repo to your machine using git
+* Navigate to the directory holding the repo and double-click
+on the index.html file to open the game in your default browser
 
-Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
+### Gameplay
+* Gameplay begins when the browser opens
+* Move the player sprite with arrow keys
+* If a bug hits you, you will be placed back at the start
+* If the player reaches the water the player will be placed back
+at the started
 
-Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
+Many additional features were foregone to submit the project by the
+class deadline.  Additional features planned to be added to the game:
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+* Player character selection
+* Scoring system with timer
+* Gem collection for additional points
+* End of game modal outlining player performance
 
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-# frontend-nanodegree-arcade-game
+This code is used as a graded submission for the Udacity Front-End
+nanodegree program, pull requests will not be accepted.
+
+## Resources
+
+* Udacity source code:  https://github.com/udacity/frontend-nanodegree-arcade-game
+* Game Engine
+* Art Assets
+
+Technologies Used:  HTML, CSS, JavaScript (Object-Oriented )
+
+## Preview
+
+To preview the game, click [HERE](https://htmlpreview.github.io/?https://github.com/udacity/frontend-nanodegree-arcade-game)
